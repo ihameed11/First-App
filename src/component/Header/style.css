@@ -1,0 +1,33 @@
+header{
+   
+    display:inline-flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+   width: 100%;
+   
+   
+   
+   
+    
+}
+
+.mnue{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    margin-right: 50px;
+}
+.logo-img{
+    width: 100px;
+    height:100px;
+    margin-left:  50px;
+}
+
+.mnue p{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}

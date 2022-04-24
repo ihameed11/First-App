@@ -1,0 +1,13 @@
+button{
+    height: 30px;
+    width: 150px;
+    color: aquamarine;
+    background-color:brown;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin : 20px;
+
+}
+button:hover{
+    background-color:azure;
+    color:blue;
+}
